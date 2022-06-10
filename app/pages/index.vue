@@ -35,9 +35,9 @@
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
         <img
-          alt="Hero"
+          alt="Playing Tennis"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="https://rhafener.blob.core.windows.net/newcontainer/image0.jpg?sp=r&st=2022-06-10T02:06:06Z&se=2024-06-01T10:06:06Z&spr=https&sv=2021-06-08&sr=b&sig=b3GOgSnIac2PGHhTo10nbbJQ5mgHsuJaUX6MHV2OEy0%3D"
         />
       </div>
     </div>
