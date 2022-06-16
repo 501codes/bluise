@@ -3,14 +3,6 @@
     <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
-
-      <div class="flex flex-col w-full xl:w-5/5">
-        <img
-          alt="Playing Tennis"
-          class="rounded shadow-xl"
-          src="https://rhafener.blob.core.windows.net/newcontainer/image0.jpg?sp=r&st=2022-06-10T02:06:06Z&se=2024-06-01T10:06:06Z&spr=https&sv=2021-06-08&sr=b&sig=b3GOgSnIac2PGHhTo10nbbJQ5mgHsuJaUX6MHV2OEy0%3D"
-        />
-      </div>
     </div>
   </section>
 </template>
